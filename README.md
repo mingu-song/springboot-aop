@@ -15,4 +15,4 @@
 * 개인적로는 annotation 방식이 명시적이고 좋아 보이지만(EnableRestCallLogAspect)
 * 공통으로 처리해야 하는 것을 전파할때는 execution을 사용하여 모두 적용되게 하는 것이 좋아보임(PostCacheUpdateAspect)
 * 참고
-  * https://medium.com/@viniciusromualdobusiness/clean-architecture-with-spring-boot-a-good-idea-d6f97e450130
+  * https://medium.com/thefreshwrites/create-your-own-custom-annotation-in-spring-boot-be6ac6452c88
